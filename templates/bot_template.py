@@ -1,6 +1,6 @@
 from telegram.ext import ApplicationBuilder, CommandHandler
 
-TOKEN = "TOKEN"
+TOKEN = "8776073024:AAFBPe44VEgtwHUX_40R8YGPgOs7OZCUrBc"
 
 async def start(update, context):
     await update.message.reply_text("Бот работает")
