@@ -1,7 +1,10 @@
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ГЛАВНОГО_БОТА"
+BOT_TOKEN = "TOKEN_ГЛАВНОГО_БОТА"
 
-ADMIN_ID = 123456789
+ADMIN_IDS = [123456789]
+
+DATABASE = "creator.db"
 
 BOTS_FOLDER = "bots"
 
-DATABASE = "creator.db"
+BOT_PRICE = 0
+REF_REWARD = 10
